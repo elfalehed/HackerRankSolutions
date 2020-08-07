@@ -4,4 +4,4 @@ in this repository I'm gonna share with you solution of the python challenges I 
 <br />
 <br />
 ## :round_pushpin: Rank: Easy <br />
-
+// Basic Game Knwoing, We're gonna move not HackerRank 
