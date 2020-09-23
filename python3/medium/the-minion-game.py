@@ -1,6 +1,6 @@
 #! /usr/bin/env/ python3
 
-
+# count how many times a pattern exists in a string
 def countFreq(pat, txt):
     M = len(pat)
     N = len(txt)
@@ -44,7 +44,6 @@ def subs(txt, startswith):
             if txt[i].lower() in startswith.lower():
                 yield txt[i:i + j]
 
-s = 'BANANA'
 vowels = 'AEIOU'
 if __name__ == '__main__':
     s = input()
@@ -68,9 +67,13 @@ if __name__ == '__main__':
     """
     for i in range(len(s)):
         print(ll[i])
-    
+        
+    for i in range(len(s)):
+        print(pp[i])
+
+    #Extra  function
 
     #txt = "dhimanman"
     #pat = "man" 
     #print(countFreq(pat, txt))
- 
+
