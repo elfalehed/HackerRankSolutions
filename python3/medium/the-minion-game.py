@@ -72,6 +72,8 @@ if __name__ == '__main__':
         print(pp[i])
 
     #Extra  function
+    #Comment the needed steps
+
 
 
     #txt = "dhimanman"
