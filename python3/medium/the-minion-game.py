@@ -73,8 +73,6 @@ if __name__ == '__main__':
 
     #Extra  function
     #Comment the needed steps
- # wtf is this game is gonna do 
-
 
     #txt = "dhimanman"
     #pat = "man" 
